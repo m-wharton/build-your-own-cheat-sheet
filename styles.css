@@ -1,0 +1,32 @@
+* {
+    font-family: Arial, sans-serif;
+    background-color: #ADD8E6
+  }
+  
+  table {
+    border-width: 3px;
+    border-style: solid;
+    border-color: #8A2BE2;
+  }
+  
+  thead th {
+    text-align: center;
+    background-color: #00BFFF;
+  }
+  
+  .title {
+    color: #000080
+  }
+  
+  .table-content th {
+    text-align: left;
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-top-color: #0000FF;
+  }
+  
+  .marked-code {
+    font-family: monospace;
+    font-size: 16px;
+    background-color: #B0C4DE;
+  }  
